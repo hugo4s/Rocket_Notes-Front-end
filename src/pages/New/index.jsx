@@ -1,6 +1,6 @@
 import { Header } from '../../Components/Header'
 import { Input } from '../../Components/Input'
-import { Textarea } from '../../Components/Input'
+import { Textarea } from '../../Components/Textarea'
 import { NoteItem } from '../../Components/NoteItem'
 import { Section } from '../../Components/Section'
 import { Link } from 'react-router-dom'
@@ -23,7 +23,7 @@ export function New() {
                     <Textarea placeholder="Observações" />
 
                     <Section title="Links úteis">
-                        <NoteItem value="https://rocketseat.com.br"/>
+                        <NoteItem value="https://github.com/hugo4s/"/>
                         <NoteItem isNew placeholder="Novo link"/>
                     </Section>
 
