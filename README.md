@@ -1,12 +1,7 @@
 <h1 align="center">
-    Rocket Notes
+    Rocket Notes 🚀
 </h1>
 
-
-
-<h4 align="center"> 
-  🚀 Application Finished 🚀
-</h4>
 
 <p align="center">
  <a href="#-about">About</a> |
